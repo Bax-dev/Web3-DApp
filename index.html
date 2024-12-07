@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Christmas Aid</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Christmas Aid Platform</h1>
+            <form id="donationForm">
+                <input type="text" id="donorAddress"
+                    placeholder="Your Wallet Address" required />
+                <input type="number" id="donationAmount"
+                    placeholder="Amount (ETH)" required />
+                <button type="submit">Donate</button>
+            </form>
+            <br />
+            <button onclick="distributeFunds()">Distribute Funds</button>
+        </div>
+
+        <script src="js/script.js"></script>
+    </body>
+
+</html>
