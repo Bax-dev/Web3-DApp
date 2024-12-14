@@ -67,6 +67,11 @@ To set up this project on your local machine, follow these steps:
 - **Backend Development**: I used Flask to build a backend that communicates with the blockchain and serves the frontend.
 - **Frontend Development**: I built a simple and user-friendly HTML interface for interacting with the smart contract.
 
+![D-app](demo-img/d-app1.png)
+![D-app](demo-img/d-app2.png)
+![D-app](demo-img/d-app3.png)
+
+
 ## How to Implement It
 **To implement this project**:
  ```bash 
